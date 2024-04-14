@@ -34,6 +34,7 @@ Latin America and the Caribbean, South America, Europe)
 
 barplot(Average_Observation_Value, xlab = 'Continent', ylab = "Observation Value", main="% of children under 5 suffering from 3 or more deprivations.", names.arg = Continent)
 
+
 Bar Chart
 The bar chart shows that global inequality affects childhood development, with regional differences in the percentage of young children suffering from three or more deprivations being revealed.
 The percentage of children suffering from three deprivations or more differs from region to region with massive differences between Europe (lowest percentage) when compared to Africa or Oceania (highest percentage). 
